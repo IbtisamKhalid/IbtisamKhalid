@@ -7,7 +7,9 @@
 <p align="center">
   <a href="https://github.com/IbtisamKhalid"><img src="https://img.shields.io/github/followers/IbtisamKhalid?label=Follow&style=social"></a>
   <a href="mailto:IbtisamKhalid103@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail"></a>
-  <a href="https://linkedin.com/in/ibtisamkhalid"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/ibtisamk"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://instagram.com/ibtisamkhalid_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+
 </p>
 
 ---
@@ -28,6 +30,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Mantine](https://img.shields.io/badge/-Mantine-339AF0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu
+b3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOC4zIDEuN0MxMC4yIDMuMSAxMiA0LjYgMTIuOCA2LjNsMS41IDEuOC0uNyAyLjUgMyAzLjFjLjYuNyAxIDEuNCAxLjIgMi4ybC4xLjUtLjEuNGEzLjYgMy42IDAgMCAxLTIuMSAyLjNMOS43IDIxLjZsLTItMS4xYy0xLjQtMS0zLjQtMy0zLjQtNS41IDAtMS43IDEuMS0zLjYgMi0zLjhsLjQtLjEtLjMtLjNDNS41IDEwIDUuNCA3LjMgNy41IDUuMiA4LjIgNC41IDkuMiAzLjcgOC4zIDEuN3oiLz48L3N2Zz4=&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
