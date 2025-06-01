@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ibtisam Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**IbtisamKhalid/IbtisamKhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Full Stack Developer | 🔥 Firebase Wizard | 🧠 Startup Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/IbtisamKhalid"><img src="https://img.shields.io/github/followers/IbtisamKhalid?label=Follow&style=social"></a>
+  <a href="mailto:IbtisamKhalid103@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ibtisamkhalid"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 💡 I love building full-stack apps using **React**, **Node.js**, and **Firebase**.
+- 🌱 Currently learning **Next.js**, **AI APIs**, and **microservices**.
+- 🎯 My goal is to launch and scale a **successful SaaS product**.
+- 🧠 I often automate my workflows (even Git commits 😉).
+- 📫 Reach me at: IbtisamKhalid103@gmail.com
+
+---
+
+## 🔧 Tech Stack & Tools
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbtisamKhalid&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbtisamKhalid&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbtisamKhalid&layout=compact&theme=tokyonight" width="50%">
+</p>
+
+---
+
+## 🧠 Fun Projects
+
+- 🔥 **Daily GitHub Commits Bot** – Auto-commits with randomness & intelligence.
+- 📥 **Real-time Chat App** – Built with Firebase, styled with Mantine.
+- 🛍️ **Full-featured E-commerce Dashboard** – React + Firebase + Stripe.
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Coming soon: How I automated my GitHub activity graph]
+- [Why Firebase is my backend of choice for MVPs]
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## ⚡ Fun Facts
+
+- 🖥️ I started coding with HTML tables at age 12.
+- 🌍 I can debug better at 3 AM than 3 PM.
+- 🤖 My bot might be committing right now while you're reading this.
+- 💬 Ask me about Firebase, auth, or scaling side projects!
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/IbtisamKhalid">Ibtisam Khalid</a>
+</p>
+```
+
