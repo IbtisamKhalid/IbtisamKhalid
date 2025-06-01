@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ibtisam Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  🚀 Full Stack Developer | 🔥 Firebase Wizard | 🧠 Startup Enthusiast
+  🚀 Full Stack Developer(MERN Stack) | 🔥 Firebase Wizard | 🧠 Startup Enthusiast
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - 💡 I love building full-stack apps using **React**, **Node.js**, and **Firebase**.
 - 🌱 Currently learning **Next.js**, **AI APIs**, and **microservices**.
 - 🎯 My goal is to launch and scale a **successful SaaS product**.
-- 🧠 I often automate my workflows (even Git commits 😉).
+- 🧠 I often automate my workflows.
 - 📫 Reach me at: IbtisamKhalid103@gmail.com
 
 ---
@@ -48,26 +48,26 @@
 
 ## 🧠 Fun Projects
 
-- 🔥 **Daily GitHub Commits Bot** – Auto-commits with randomness & intelligence.
-- 📥 **Real-time Chat App** – Built with Firebase, styled with Mantine.
-- 🛍️ **Full-featured E-commerce Dashboard** – React + Firebase + Stripe.
+- 📥 **Dugeons Not Dating** – Built with Firebase, styled with Mantine.
+- 🛍️ **TrustBridge - Securing your online Transactions** – React + Node + Stripe.
+- 🛍️ **Full-featured E-commerce Website** – React + Firebase + Stripe.
 
 ---
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- 
+BLOG-POST-LIST:START 
 - [Coming soon: How I automated my GitHub activity graph]
 - [Why Firebase is my backend of choice for MVPs]
+-->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🖥️ I started coding with HTML tables at age 12.
 - 🌍 I can debug better at 3 AM than 3 PM.
-- 🤖 My bot might be committing right now while you're reading this.
 - 💬 Ask me about Firebase, auth, or scaling side projects!
 
 ---
