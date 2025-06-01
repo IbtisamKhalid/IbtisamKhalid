@@ -75,5 +75,4 @@ BLOG-POST-LIST:START
 <p align="center">
   Made with ❤️ by <a href="https://github.com/IbtisamKhalid">Ibtisam Khalid</a>
 </p>
-```
 
