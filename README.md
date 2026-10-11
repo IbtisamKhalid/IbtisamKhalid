@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ibtisam Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  🚀 Full Stack Developer(MERN Stack) | 🔥 Firebase Wizard | 🧠 Startup Enthusiast
+  🚀 Software Engineer | Full-Stack Web & Mobile Developer | 🧠 AI-Assisted, Fundamentals-First
 </p>
 
 <p align="center">
@@ -9,30 +9,61 @@
   <a href="mailto:IbtisamKhalid103@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail"></a>
   <a href="https://linkedin.com/in/ibtisamk"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://instagram.com/ibtisamkhalid_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💡 I love building full-stack apps using **React**, **Node.js**, and **Firebase**.
-- 🌱 Currently learning **Next.js**, **AI APIs**, and **microservices**.
-- 🧠 I often automate my workflows.
+I'm a Software Engineer based in Islamabad, Pakistan, with a BS in Software Engineering (Arid Agriculture University). I build and maintain full-stack web and mobile applications with a focus on modular design, maintainability, and scalability.
+
+- 💼 Software Engineer at **Niftonic** (since Feb 2025), working on production web apps: new features, role-based access control, performance, and secure auth flows
+- 🕰️ Previously Junior Software Engineer at **TechSol** (Aug 2024 – Feb 2025)
+- ⚛️ Core stack: **React.js**, **Next.js**, **React Native**, **Node.js**, **Firebase**
+- 🤖 I use AI-assisted development workflows to move faster, backed by solid fundamentals, which also lets me pick up other frameworks (Angular, Vue) as projects need them
+- 📜 Certified: **Meta Front-End Developer**, **Google UX Design**, **Google Project Management**
 - 📫 Reach me at: IbtisamKhalid103@gmail.com
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
+**Frontend**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Material UI](https://img.shields.io/badge/-Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Mantine](https://img.shields.io/badge/-Mantine-339AF0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOC4zIDEuN0MxMC4yIDMuMSAxMiA0LjYgMTIuOCA2LjNsMS41IDEuOC0uNyAyLjUgMyAzLjFjLjYuNyAxIDEuNCAxLjIgMi4ybC4xLjUtLjEuNGEzLjYgMy42IDAgMCAxLTIuMSAyLjNMOS43IDIxLjZsLTItMS4xYy0xLjQtMS0zLjQtMy0zLjQtNS41IDAtMS43IDEuMS0zLjYgMi0zLjhsLjQtLjEtLjMtLjNDNS41IDEwIDUuNCA3LjMgNy41IDUuMiA4LjIgNC41IDkuMiAzLjcgOC4zIDEuN3oiLz48L3N2Zz4=&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Mantine](https://img.shields.io/badge/-Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=for-the-badge)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🧠 Featured Projects
+
+- 🐉 **Dungeons Not Dating** – Fantasy-themed social app with character-based roles. Built with React and React Native, with role-based content, real-time updates, form validation (React Hook Form + Yup), Stripe subscriptions, and TikTok Business SDK attribution on Android.
+- 🌳 **TreeTalk Therapy** – Teletherapy platform connecting users with licensed therapists. Secure video sessions via Zoom APIs, with API Gateway endpoints for backend communication.
+- 🔐 **TrustBridge** – Escrow platform for secure peer-to-peer transactions and rentals, with dispute resolution, dashboards, real-time notifications, and secure payment integration.
 
 ---
 
@@ -49,33 +80,13 @@
 
 ---
 
-## 🧠 Fun Projects
-
-- 📥 **Dugeons Not Dating** – Built with Firebase, styled with Mantine.
-- 🛍️ **TrustBridge - Securing your online Transactions** – React + Node + Stripe.
-- 🛍️ **Full-featured E-commerce Website** – React + Firebase + Stripe.
-
----
-
-## ✍️ Latest Blog Posts
-
-<!-- 
-BLOG-POST-LIST:START 
-- [Coming soon: How I automated my GitHub activity graph]
-- [Why Firebase is my backend of choice for MVPs]
--->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## ⚡ Fun Facts
 
 - 🌍 I can debug better at 3 AM than 3 PM.
-- 💬 Ask me about Firebase, auth, or scaling side projects!
+- 💬 Ask me about React, Firebase, auth flows, or building real-time features!
 
 ---
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/IbtisamKhalid">Ibtisam Khalid</a>
 </p>
-
