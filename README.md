@@ -18,7 +18,6 @@
 
 - 💡 I love building full-stack apps using **React**, **Node.js**, and **Firebase**.
 - 🌱 Currently learning **Next.js**, **AI APIs**, and **microservices**.
-- 🎯 My goal is to launch and scale a **successful SaaS product**.
 - 🧠 I often automate my workflows.
 - 📫 Reach me at: IbtisamKhalid103@gmail.com
 
